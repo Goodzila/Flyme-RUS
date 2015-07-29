@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_default_folders">
+        <item>Изображения</item>
+        <item>Музыка</item>
+        <item>Видео</item>
+        <item>Архивы</item>
+        <item>APK</item>
+        <item>Другие файлы</item>
+    </string-array>
+    <string-array name="download_default_paths">
+        <item>/Download/Photo</item>
+        <item>/Download/Music</item>
+        <item>/Download/Video</item>
+        <item>/Download</item>
+        <item>/Download/APK</item>
+        <item>/Download</item>
+    </string-array>
+    <string-array name="download_numbers">
+        <item>1 загрузка</item>
+        <item>2 загрузки</item>
+        <item>3 загрузки</item>
+        <item>4 загрузки</item>
+        <item>5 загрузок</item>
+    </string-array>
+    <string-array name="delete_limit_option">
+        <item>Сразу</item>
+        <item>Каждый час</item>
+        <item>Каждый день</item>
+        <item>Каждую неделю</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+</resources>

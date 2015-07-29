@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unit_name">
+        <item>Обменный курс</item>
+        <item>Длина</item>
+        <item>Площадь</item>
+        <item>Вес</item>
+        <item>Объем</item>
+    </string-array>
+</resources>

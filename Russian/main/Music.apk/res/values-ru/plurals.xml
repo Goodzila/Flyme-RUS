@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">"Треков добавлено в "</item>
+        <item quantity="one">"Трек добавлен в "</item>
+    </plurals>
+    <plurals name="NNNtracktoplaylistfail">
+        <item quantity="other">Треки уже в плейлисте</item>
+        <item quantity="one">Трек уже в плейлисте</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d альбомов</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="artist_count">
+        <item quantity="other">%d артистов</item>
+        <item quantity="one">1 артист</item>
+    </plurals>
+    <plurals name="download_completed_count">
+        <item quantity="other">%d треков загружено</item>
+        <item quantity="one">1 трек загружен</item>
+    </plurals>
+    <plurals name="download_failed_count">
+        <item quantity="other">Ошибка загрузки %d трека(ов)</item>
+        <item quantity="one">Ошибка загрузки трека</item>
+    </plurals>
+    <plurals name="download_off_shelf">
+        <item quantity="other">%d треков было заказано</item>
+        <item quantity="one">1 трек был заказан</item>
+    </plurals>
+    <plurals name="folder_count_header">
+        <item quantity="other">%d папок</item>
+        <item quantity="one">1 папка</item>
+    </plurals>
+    <plurals name="song_count_header">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">1 трек</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">Треков в %d альбомах</item>
+        <item quantity="one">Треков в 1 альбоме</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">1 трек</item>
+    </plurals>
+    <plurals name="playlist_name_exists">
+        <item quantity="other">%d названия уже существуют</item>
+        <item quantity="one">1 название уже существует</item>
+    </plurals>
+    <plurals name="playlist_name_toolong">
+        <item quantity="other">%d названия слишком длинные</item>
+        <item quantity="one">1 название слишком длинное</item>
+    </plurals>
+    <plurals name="search_album_count">
+        <item quantity="other">%d альбомов</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="search_artist_count">
+        <item quantity="other">%d артистов</item>
+        <item quantity="one">1 артист</item>
+    </plurals>
+    <plurals name="song_count">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+    </plurals>
+</resources>

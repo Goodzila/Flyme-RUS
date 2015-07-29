@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>Да</item>
+        <item>По требованию</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Текущая страница</item>
+        <item>Пустая страница</item>
+        <item>Страница по умолчанию</item>
+        <item>Часто посещаемые веб-сайты</item>
+        <item>Другая</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Мелкий</item>
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Мелкий</item>
+        <item>Средний</item>
+        <item>Крупный</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Автоопределение</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+        <item>Korean (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Никогда</item>
+        <item>Только по WLAN</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Никогда</item>
+        <item>Только через Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_homepage_choices2">
+        <item>Текущая страница</item>
+        <item>Избранное</item>
+        <item>Наиболее посещаемые</item>
+        <item>По умолчанию</item>
+    </string-array>
+    <string-array name="title_bar_share_item">
+        <item>Bluetooth</item>
+        <item>SMS</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="pref_set_text_degree_choices">
+        <item>По умолчанию</item>
+        <item>Средний</item>
+        <item>Большой</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timezones>
+    <timezone id="Pacific/Majuro" drawable="ic_flag_russia">Маджуро</timezone>
+    <timezone id="Pacific/Midway" drawable="ic_flag_united_states">Мидуэй, о-ва</timezone>
+    <timezone id="Pacific/Honolulu" drawable="ic_flag_united_states">Гонолулу</timezone>
+    <timezone id="America/Anchorage" drawable="ic_flag_united_states">Анкоридж</timezone>
+    <timezone id="America/Los_Angeles" drawable="ic_flag_united_states">Лос-Анджелес</timezone>
+    <timezone id="America/Tijuana" drawable="ic_flag_mexico">Тихуана</timezone>
+    <timezone id="America/Phoenix" drawable="ic_flag_united_states">Финикс</timezone>
+    <timezone id="America/Chihuahua" drawable="ic_flag_qww">Чиуауа</timezone>
+    <timezone id="America/Denver" drawable="ic_flag_united_states">Денвер</timezone>
+    <timezone id="America/Costa_Rica" drawable="ic_flag_costa_rica">Коста-Рика</timezone>
+    <timezone id="America/Chicago" drawable="ic_flag_united_states">Чикаго</timezone>
+    <timezone id="America/Mexico_City" drawable="ic_flag_mexico">Мехико</timezone>
+    <timezone id="America/Regina" drawable="ic_flag_canada">Реджайна</timezone>
+    <timezone id="America/Bogota" drawable="ic_flag_colombia">Богота</timezone>
+    <timezone id="America/New_York" drawable="ic_flag_united_states">Нью-Йорк</timezone>
+    <timezone id="America/Caracas" drawable="ic_flsg_venezuela">Каракас</timezone>
+    <timezone id="America/Barbados" drawable="ic_flag_barbados">Барбадос</timezone>
+    <timezone id="America/Halifax" drawable="ic_flag_canada">Галифакс</timezone>
+    <timezone id="America/Manaus" drawable="ic_flag_brazil">Манаус</timezone>
+    <timezone id="America/Santiago" drawable="ic_flag_chile">Сантьяго</timezone>
+    <timezone id="America/St_Johns" drawable="ic_flag_antigua_and_barbuda">Сент-Джонс</timezone>
+    <timezone id="America/Sao_Paulo" drawable="ic_flag_brazil">Сан-Паулу</timezone>
+    <timezone id="America/Argentina/Buenos_Aires" drawable="ic_flag_argentina">Буэнос-Айрес</timezone>
+    <timezone id="America/Godthab" drawable="ic_flag_denmark">Готхоб</timezone>
+    <timezone id="America/Montevideo" drawable="ic_flag_uruguay">Монтевидео</timezone>
+    <timezone id="Atlantic/South_Georgia" drawable="ic_flag_georgia">Ю.Джорджия и Ю.Сэндвинчевы о-ва</timezone>
+    <timezone id="Atlantic/Azores" drawable="ic_flag_portugal">Азорские о-ва</timezone>
+    <timezone id="Atlantic/Cape_Verde" drawable="ic_flag_cape_verde">Острова Зеленого Мыса</timezone>
+    <timezone id="Africa/Casablanca" drawable="ic_flag_morocco">Касабланка</timezone>
+    <timezone id="Europe/London" drawable="ic_flag_saint_helena">Лондон</timezone>
+    <timezone id="Europe/Amsterdam" drawable="ic_flag_netherlands">Амстердам</timezone>
+    <timezone id="Europe/Belgrade" drawable="ic_flag_serbia">Белград</timezone>
+    <timezone id="Europe/Brussels" drawable="ic_flag_belgium">Брюссель</timezone>
+    <timezone id="Europe/Sarajevo" drawable="ic_flag_yemen">Сараево</timezone>
+    <timezone id="Africa/Windhoek" drawable="ic_flag_namibia">Виндхук</timezone>
+    <timezone id="Africa/Brazzaville" drawable="ic_flag_congo_democratic_republic_of_the">Браззавиль</timezone>
+    <timezone id="Asia/Amman" drawable="ic_flag_jordan">Амман</timezone>
+    <timezone id="Europe/Athens" drawable="ic_flag_greece">Афины</timezone>
+    <timezone id="Asia/Beirut" drawable="ic_flag_lebanon">Бейрут</timezone>
+    <timezone id="Africa/Cairo" drawable="ic_flag_egypt">Каир</timezone>
+    <timezone id="Europe/Helsinki" drawable="ic_flag_finland">Хельсинки</timezone>
+    <timezone id="Asia/Jerusalem" drawable="ic_flag_israel">Иерусалим</timezone>
+    <timezone id="Europe/Minsk" drawable="ic_flag_belarus">Минск</timezone>
+    <timezone id="Africa/Harare" drawable="ic_flag_zimbabwe">Хараре</timezone>
+    <timezone id="Asia/Baghdad" drawable="ic_flag_iraq">Багдад</timezone>
+    <timezone id="Europe/Moscow" drawable="ic_flag_russia">Москва</timezone>
+    <timezone id="Asia/Kuwait" drawable="ic_flag_kuwait">Кувейт</timezone>
+    <timezone id="Africa/Nairobi" drawable="ic_flag_kenya">Найроби</timezone>
+    <timezone id="Asia/Tehran" drawable="ic_flag_iran">Тегеран</timezone>
+    <timezone id="Asia/Baku" drawable="ic_flag_azerbaijan">Баку</timezone>
+    <timezone id="Asia/Tbilisi" drawable="ic_flag_georgia">Тбилиси</timezone>
+    <timezone id="Asia/Yerevan" drawable="ic_flag_armenia">Ереван</timezone>
+    <timezone id="Asia/Dubai" drawable="ic_flag_united_arad_emirates">Дубай</timezone>
+    <timezone id="Asia/Kabul" drawable="ic_flag_afghanistan">Кабул</timezone>
+    <timezone id="Asia/Karachi" drawable="ic_flag_pakistan">Карачи</timezone>
+    <timezone id="Asia/Oral" drawable="ic_flag_russia">Орал (Уральск)</timezone>
+    <timezone id="Asia/Yekaterinburg" drawable="ic_flag_russia">Екатеринбург</timezone>
+    <timezone id="Asia/Calcutta" drawable="ic_flag_india">Калькутта</timezone>
+    <timezone id="Asia/Colombo" drawable="ic_flag_sri_lanka">Коломбо</timezone>
+    <timezone id="Asia/Katmandu" drawable="ic_flag_nepal">Катманду</timezone>
+    <timezone id="Asia/Almaty" drawable="ic_flag_kazakhstan">Алматы</timezone>
+    <timezone id="Asia/Rangoon" drawable="ic_flag_burma">Рангун</timezone>
+    <timezone id="Asia/Krasnoyarsk" drawable="ic_flag_russia">Красноярск</timezone>
+    <timezone id="Asia/Bangkok" drawable="ic_flag_thailand">Бангкок</timezone>
+    <timezone id="Asia/Shanghai" drawable="ic_flag_china">Пекин</timezone>
+    <timezone id="Asia/Hong_Kong" drawable="ic_flag_china">Гонконг</timezone>
+    <timezone id="Asia/Irkutsk" drawable="ic_flag_russia">Иркутск</timezone>
+    <timezone id="Asia/Kuala_Lumpur" drawable="ic_flag_malaysia">Куала-Лумпур</timezone>
+    <timezone id="Australia/Perth" drawable="ic_flag_australia">Перт</timezone>
+    <timezone id="Asia/Taipei" drawable="ic_flag_taiwan">Тайбэй</timezone>
+    <timezone id="Asia/Seoul" drawable="ic_flag_korea_south">Сеул</timezone>
+    <timezone id="Asia/Tokyo" drawable="ic_flag_japan">Токио</timezone>
+    <timezone id="Asia/Yakutsk" drawable="ic_flag_russia">Якутск</timezone>
+    <timezone id="Australia/Adelaide" drawable="ic_flag_australia">Аделаида</timezone>
+    <timezone id="Australia/Darwin" drawable="ic_flag_australia">Дарвин</timezone>
+    <timezone id="Australia/Brisbane" drawable="ic_flag_australia">Брисбен</timezone>
+    <timezone id="Australia/Hobart" drawable="ic_flag_australia">Хобарт</timezone>
+    <timezone id="Australia/Sydney" drawable="ic_flag_australia">Сидней</timezone>
+    <timezone id="Asia/Vladivostok" drawable="ic_flag_russia">Владивосток</timezone>
+    <timezone id="Pacific/Guam" drawable="ic_flag_guam">Гуам</timezone>
+    <timezone id="Asia/Magadan" drawable="ic_flag_russia">Магадан</timezone>
+    <timezone id="Pacific/Auckland" drawable="ic_flag_new_zealand">Окленд</timezone>
+    <timezone id="Pacific/Fiji" drawable="ic_flag_fiji">Фиджи</timezone>
+    <timezone id="Pacific/Tongatapu" drawable="ic_flag_afghanistan">Тонгатапу</timezone>
+</timezones>

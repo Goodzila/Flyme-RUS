@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ACTION_MODE">
+        <item>Копирование</item>
+        <item>Восстановление</item>
+    </string-array>
+    <string-array name="DATE_FORMAT">
+        <item>г.</item>
+        <item></item>
+        <item></item>
+        <item>час</item>
+        <item>мин</item>
+        <item>сек</item>
+    </string-array>
+    <string-array name="DATE_FORMAT_TITLE">
+        <item>мин</item>
+        <item>час</item>
+        <item>дн.</item>
+        <item>лет</item>
+    </string-array>
+    <string-array name="DAY_WEEK">
+        <item>Вск</item>
+        <item>Пон</item>
+        <item>Втр</item>
+        <item>Срд</item>
+        <item>Чтв</item>
+        <item>Птн</item>
+        <item>Сбт</item>
+    </string-array>
+    <string-array name="item_data">
+        <item>Контакты</item>
+        <item>Сообщения</item>
+        <item>MMS</item>
+        <item>История вызовов</item>
+        <item>Календарь</item>
+        <item>Система</item>
+        <item>ПО и данные</item>
+    </string-array>
+    <string-array name="item_system_setting">
+        <item>Пароли Wi-Fi</item>
+        <item>Вибрация и рингтон</item>
+        <item>Настройки экрана</item>
+        <item>Будильник</item>
+        <item>Закладки браузера</item>
+    </string-array>
+    <string-array name="sd_select_item">
+        <item>Внутренняя память</item>
+        <item>Карта памяти</item>
+    </string-array>
+</resources>
