@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ad_menu_array">
+        <item>Обновить</item>
+        <item>Копировать адрес</item>
+        <item>Открыть в браузере</item>
+    </string-array>
+    <string-array name="cloud_theme_opt">
+        <item>Установить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="cur_rings">
+        <item>Рингтоны</item>
+        <item>Звук сообщений</item>
+        <item>Уведомления почты</item>
+        <item>Уведомления календаря</item>
+        <item>Другие уведомления</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="my_ring">
+        <item>Текущие настройки</item>
+        <item>На устройстве</item>
+    </string-array>
+    <string-array name="online_tab_title">
+        <item>Детали</item>
+        <item>Просмотр</item>
+        <item>Связанные</item>
+    </string-array>
+    <string-array name="ring_local_tag">
+        <item>Загруженное</item>
+        <item>Системные рингтоны</item>
+    </string-array>
+    <string-array name="ring_setting">
+        <item>Установить на рингтон</item>
+        <item>Установить на сообщение</item>
+        <item>Укажите контакт</item>
+    </string-array>
+    <string-array name="search_type">
+        <item>Тема</item>
+        <item>Обои</item>
+        <item>Рингтон</item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>Б</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
+    </string-array>
+    <string-array name="speed">
+        <item>/С</item>
+    </string-array>
+    <string-array name="time">
+        <item>%d с</item>
+        <item>%1$d м %2$d с</item>
+        <item>> 1 ч</item>
+    </string-array>
+    <string-array name="category_type">
+        <item>Стиль</item>
+        <item>Модуль</item>
+    </string-array>
+    <string-array name="component_name">
+        <item>Обои</item>
+        <item>Иконки</item>
+        <item>Звонки</item>
+        <item>Сообщения</item>
+        <item>Рабочий стол</item>
+    </string-array>
+</resources>

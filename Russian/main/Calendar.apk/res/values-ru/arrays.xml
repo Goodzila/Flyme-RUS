@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="allday_reminder_labels">
+        <item>Нет</item>
+        <item>В день события (9:00 утра)</item>
+        <item>За 1 день до (9:00 утра)</item>
+        <item>За 2 дня до (9:00 утра)</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Занят</item>
+        <item>Свободен</item>
+        <item>Возможно</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Только это событие</item>
+        <item>Все события</item>
+    </string-array>
+    <string-array name="chinese_number">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="delay_labels">
+        <item>Без повтора</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>3 часа</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Только это событие</item>
+        <item>Это и будущие события</item>
+        <item>Все события</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Это и будущие события</item>
+        <item>Все события</item>
+    </string-array>
+    <string-array name="event_alert_snooze_minutes_labels">
+        <item>0 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>3 часа</item>
+        <item>1 день</item>
+    </string-array>
+    <string-array name="event_druation_minutes_labels">
+        <item>0 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>Весь день</item>
+        <item>Своё</item>
+    </string-array>
+    <string-array name="festival_except_event">
+        <item>День Святого Валентина</item>
+        <item>Женский день</item>
+        <item>День древонасаждения</item>
+        <item>Международный день потребителей, прав и интересов</item>
+        <item>Всемирный день лес</item>
+        <item>"Первоапрельской 'День"</item>
+        <item>Всемирный день здоровья</item>
+        <item>Всемирный день Земли</item>
+        <item>Международный день интеллектуальной собственности</item>
+        <item>День молодежи</item>
+        <item>День детей</item>
+        <item>Всемирный день окружающей среды</item>
+        <item>День основания КПК</item>
+        <item>День Армии</item>
+        <item>День Учителя</item>
+        <item>Хэллоуин</item>
+        <item>Сочельник</item>
+        <item>Рождество</item>
+    </string-array>
+    <string-array name="gre_festival">
+        <item>Новый Год</item>
+        <item>День Святого Валентина</item>
+        <item>Женский день</item>
+        <item>Арбор-день</item>
+        <item>Международный день потребителей, прав и интересов</item>
+        <item>Всемирный день леса</item>
+        <item>День смеха</item>
+        <item>Всемирный день здоровья</item>
+        <item>Всемирный день Земли</item>
+        <item>Всемирный день интеллектуальной собственности</item>
+        <item>День Труда</item>
+        <item>День молодежи</item>
+        <item>День отказа от табака</item>
+        <item>День детей</item>
+        <item>Всемирный день окружающей среды</item>
+        <item>День основания КПК</item>
+        <item>День Армии</item>
+        <item>День Учителя</item>
+        <item>Национальный День</item>
+        <item>Хэллоуин</item>
+        <item>Сочельник</item>
+        <item>Рождество</item>
+    </string-array>
+    <string-array name="gregorian_holidays">
+        <item>День Святого Валентина</item>
+        <item>Международный женский день</item>
+        <item>Арбор день</item>
+        <item>Международный день защиты прав потребителей</item>
+        <item>Всемирный день леса</item>
+        <item>День смеха</item>
+        <item>Всемирный день здоровья</item>
+        <item>Всемирный день Земли</item>
+        <item>Международный день интеллектуальной собственности</item>
+        <item>День молодежи</item>
+        <item>День защиты детей</item>
+        <item>Всемирный день окружающей среды</item>
+        <item>День партии</item>
+        <item>День Армии</item>
+        <item>День учителя</item>
+        <item>Хэллоуин</item>
+        <item>Сочельник</item>
+        <item>Рождество</item>
+        <item>День матери</item>
+        <item>День отца</item>
+        <item>День благодарения</item>
+    </string-array>
+    <string-array name="lunar_festival">
+        <item>Лаба-фестиваль</item>
+        <item>Канун Нового года</item>
+        <item>Китайский День влюбленных</item>
+        <item>Фестиваль голодных призраков</item>
+        <item>Праздник двойной девятки</item>
+    </string-array>
+    <string-array name="lunar_number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>первый</item>
+        <item>второй</item>
+        <item>третий</item>
+        <item>четвертый</item>
+        <item>последний</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в беззвучном</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Нет</item>
+        <item>В момент события</item>
+        <item>За 10 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>За 1 день</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>По умолчанию</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Уведомление</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+        <item>Будильник</item>
+    </string-array>
+    <string-array name="repeats_end_labels">
+        <item>Всегда</item>
+        <item>На дату</item>
+        <item>На количество событий</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Нет ответа</item>
+        <item>Да</item>
+        <item>Возможно</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="solar_festival">
+        <item>Прохладно</item>
+        <item>Холодно</item>
+        <item>Начало весны</item>
+        <item>Дожди</item>
+        <item>Пробуждение насекомых</item>
+        <item>Весеннее равноденствие</item>
+        <item>Чистая Яркость</item>
+        <item>Крупный дождь</item>
+        <item>Начало лета</item>
+        <item>Малая полнота</item>
+        <item>Зерно в ухо</item>
+        <item>Летнее солнцестояние</item>
+        <item>Тепло</item>
+        <item>Жарко</item>
+        <item>Начало осени</item>
+        <item>Похолодание</item>
+        <item>Белые росы</item>
+        <item>Осеннее равноденствие</item>
+        <item>Холодная роса</item>
+        <item>Первый морозец</item>
+        <item>Начало зимы</item>
+        <item>Небольшой снег</item>
+        <item>Снегопад</item>
+        <item>Зимнее солнцестояние</item>
+    </string-array>
+    <string-array name="solar_terms">
+        <item>Прохладно</item>
+        <item>Холодно</item>
+        <item>Начало весны</item>
+        <item>Дождь</item>
+        <item>Пробуждение насекомых</item>
+        <item>Весеннее равноденствие</item>
+        <item>Чистая Яркость</item>
+        <item>Сильный дождь</item>
+        <item>Начало лета</item>
+        <item>Морось</item>
+        <item>Град</item>
+        <item>Летнее солнцестояние</item>
+        <item>Тепло</item>
+        <item>Жарко</item>
+        <item>Начало осени</item>
+        <item>Конец тепла</item>
+        <item>Белые росы</item>
+        <item>Осеннее равноденствие</item>
+        <item>Холодная роса</item>
+        <item>Мороз наступает</item>
+        <item>Начало зимы</item>
+        <item>Снежок</item>
+        <item>Много снега</item>
+        <item>Зимнее солнцестояние</item>
+    </string-array>
+    <string-array name="special_festival">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="traditional_holidays">
+        <item>Клеевые рисовые шарики для Фестиваля фонарей</item>
+        <item>Сорока Фестиваль</item>
+        <item>Фестиваль голодных духов</item>
+        <item>Праздник двойной девятки</item>
+        <item>Лаба-фестиваль</item>
+        <item>Канун Нового года</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>По умолчани.</item>
+        <item>Частное</item>
+        <item>Публичное</item>
+    </string-array>
+    <string-array name="week_day">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="weekarr">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+</resources>

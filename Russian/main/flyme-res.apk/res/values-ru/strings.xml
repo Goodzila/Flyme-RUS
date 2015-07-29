@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mz_numeric_date_format_ymd">yyyy/M/d, EEE</string>
+    <string name="mz_numeric_date_format_ydm">yyyy/d/M, EEE</string>
+    <string name="mz_numeric_date_format_mdy">EEE, M/d/yyyy</string>
+    <string name="mz_numeric_date_format_myd">EEE, M/yyyy/d</string>
+    <string name="mz_numeric_date_format_dmy">EEE, d/M/yyyy</string>
+    <string name="mz_numeric_date_format_dym">EEE, d/yyyy/M</string>
+    <string name="lock_month_day">d MMMM</string>
+    <string name="lock_week">yyyy M d (EEEE)</string>
+    <string name="pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
+    <string name="pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %p %I:%M</string>
+    <string name="pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
+    <string name="pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %p %I:%M</string>
+    <string name="pattern_year_month" formatted="false">%Y/%-m</string>
+    <string name="pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
+    <string name="pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %p %I:%M</string>
+    <string name="pattern_yesterday">Вчера</string>
+    <string name="pattern_hour_before">, часов назад</string>
+    <string name="pattern_a_hour_before">1 час назад</string>
+    <string name="pattern_minute_before">, минут назад</string>
+    <string name="pattern_a_minute_before">1 минуту назад</string>
+    <string name="pattern_today">Сегодня</string>
+    <string name="select">Выбрать</string>
+    <string name="copyAll">Копировать все</string>
+    <string name="enable">Включить</string>
+    <string name="disable">Отключить</string>
+    <string name="change_num">Обновить</string>
+    <string name="lock_password_left_times">Осталось %s попыток!</string>
+    <string name="mz_resolver_default_app">По умолчанию</string>
+    <string name="anr_activity_application">%2$s не отвечает</string>
+    <string name="anr_activity_process">Процесс %1$s не отвечает</string>
+    <string name="anr_application_process">%1$s не отвечает</string>
+    <string name="anr_process">Процесс %1$s не отвечает</string>
+    <string name="mz_anr_close_or_not">Хотите закрыть?</string>
+    <string name="bluetooth_pairing_request">Настройки</string>
+    <string name="url_warning_title">Открыть ссылку</string>
+    <string name="url_warning_messgae">Возможно потребление трафика.</string>
+    <string name="mtp_locked_section">Хранилище</string>
+    <string name="mz_upgrade_tips_title">Обновление системы</string>
+    <string name="mz_upgrade_tips">Ваш телефон готов к установке новой версии системного ПО. Установка начнется после перезагрузки.</string>
+    <string name="mz_low_battery_upgrade_tips">Обновление будет установлено после того как телефон перезагрузится. В настоящее время заряд батареи низкий, пожалуйста, подключить зарядное устройство, затем нажмите кнопку перезагрузки.</string>
+    <string name="mz_upgrade_immediately">ОК</string>
+    <string name="mz_upgrade_later">Отмена</string>
+    <string name="mz_update_battery_low">Невозможно выполнить обновление. Заряд батареи ниже 20%.</string>
+    <string name="mz_upgrade_root_title">Уведомление о правах доступа</string>
+    <string name="mz_upgrade_root_message">Открыт доступ к системе (Root). После обновления доступ будет сброшен.</string>
+    <string name="tethered_notification_title_one_device">Интернет-подключение телефона используется %1$d устройством</string>
+    <string name="tethered_notification_title_devices">Интернет-подключение телефона используется %1$d устройствами</string>
+    <string name="boot_alarm_permission_title">Включение телефона</string>
+    <string name="boot_alarm_permission_description">Установить время включения телефона</string>
+    <string name="finish_button_label">Готово</string>
+    <string name="recommend_recommend">Рекомендовано</string>
+    <string name="recommend_search_mstore">Поиск в Meizu Store</string>
+    <string name="recommend_open_mstore_faile">Ошибка открытия Meizu Store</string>
+    <string name="read_write_calibration_values_permission_title">чтение и запись значений калибровки</string>
+    <string name="permlab_rootRecoveryState">"статус root и recovery "</string>
+    <string name="permdesc_rootRecoveryState">"Разрешить приложению чтение и запись статусов root и recovery. Большинству приложений это не требуется "</string>
+    <string name="mz_pull_refresh">Вниз для обновления</string>
+    <string name="mz_is_Refreshing">Обновление</string>
+    <string name="mz_go_Refreshing">Обновить</string>
+    <string name="permlab_register_fingerprint">регистрировать отпечатки</string>
+    <string name="permdesc_register_fingerprint">Разрешить приложению регистрацию отпечатков</string>
+    <string name="permlab_recognize_fingerprint">проверять совпадение отпечатков</string>
+    <string name="permdesc_recognize_fingerprint">Разрешить приложению проверку совпадения отпечатков</string>
+    <string name="recommend_switch_power_mode">Режим производительности</string>
+    <string name="battery_consumption_balance_title">Сбалансированный</string>
+    <string name="battery_consumption_performance_title">Производительный</string>
+    <string name="hour">Час</string>
+    <string name="mz_fp_verify_failed">Отпечатки не совпадают</string>
+    <string name="requestNotSupported">Операция не поддерживается</string>
+    <string name="barringPWBlocked">Пароль блокировки запрета вызовов</string>
+    <string name="clckEnableVoiceFault">Ошибка включения голосовых вызовов</string>
+    <string name="clckEnableSmsFault">Ошибка включения SMS</string>
+    <string name="clckDisableVoiceFault">Ошибка отключения голосовых вызовов</string>
+    <string name="clckDisableSmsFault">Ошибка отключения SMS</string>
+    <string name="clckEnableVoiceFaultSmsOK">SMS включены, ошибка включения голосовых вызовов</string>
+    <string name="clckDisableVoiceFaultSmsOK">SMS отключены, ошибка отключения голосовых вызовов</string>
+    <string name="clckEnableVoiceOKSmsFault">Голосовые вызовы включены, ошибка включения SMS</string>
+    <string name="clckDisableVoiceOKSmsFault">Голосовые вызовы отключены, ошибка отключения SMS</string>
+    <string name="pinNotEnableError">Ошибка изменения PIN-кода. Сначала включите защиту PIN-кодом.</string>
+    <string name="enterPinWhileNotInPuk">Не удалось изменить PIN-код. Эта операция разрешается только в состоянии PUK.</string>
+    <string name="wifi_share_stop">Остановть Wi-Fi-передачу</string>
+    <string name="wifi_share_start">передается</string>
+    <string name="pppoe_click_to_disconnect">Разъединить</string>
+    <string name="mz_notification_ongoing_pppoe_format">PPPoE подключен (%s)</string>
+    <string name="local_number">Местный номер</string>
+    <string name="confirm_access_password_tip">Введите пароль для разблокировки</string>
+    <string name="confirm_password_error">Ошибка пароля. Введите снова.</string>
+    <string name="global_action_power_restart">Перезагрузить</string>
+    <string name="permlab_read_protect_file_list">читать список защищенных файлов</string>
+    <string name="permdesc_read_protect_file_list">Разрешить приложению читать список защищенных файлов</string>
+    <string name="permlab_modify_protect_file_list">изменять список защищенных файлов</string>
+    <string name="permdesc_modify_protect_file_list">Разрешить приложению изменять список защищенных файлов</string>
+    <string name="permlab_force_grant_access_protect_file">иметь доступ к защищенным файлам</string>
+    <string name="permdesc_force_grant_access_protect_file">Разрешить приложению иметь доступ к защищенным файлам</string>
+    <string name="permlab_request_grant_access_protect_file">запрашивать доступ к защищенным файлам</string>
+    <string name="permdesc_request_grant_access_protect_file">Разрешить приложению запрашивать доступ к защищенным файлам</string>
+    <string name="permdesc_force_clear_when_granted_expired">Разрешить приложению очищать данные авторизации</string>
+    <string name="permlab_add_global_unlock_file">добавлять файл раблокировки</string>
+    <string name="permdesc_add-global_unlock_file">Разрешить приложению добавлять файл раблокировки</string>
+    <string name="enter_password_error">Неверный пароль! Попробуйте снова.</string>
+    <string name="file_protect_password_tip">Введите пароль снова</string>
+    <string name="file_protect_set_new_password_tip">Введите пароль из 4-6 цифр</string>
+    <string name="file_protect_ensure_new_password_tip">Введите пароль снова</string>
+    <string name="file_protect_confirm_error_tip">Пароли не совпадают! Введите снова.</string>
+    <string name="lockscreen_carrier_default">Нет сигнала</string>
+    <string name="socialProfileTypeSinaWeibo">Соц. сеть</string>
+    <string name="socialProfileTypeOther">Другое</string>
+    <string name="socialProfileTypeCustom">Свое</string>
+    <string name="permdesc_backupAccounts">Разрешить приложению сохранять или восстанавливать системные аккаунты</string>
+    <string name="permlab_backupAccounts">сохранять или восстанавливать системные аккаунты</string>
+    <string name="voice_text_normal">Нажать и удерживать</string>
+    <string name="voice_text_cancle_tip">Сдвинуть для отмены</string>
+    <string name="voice_text_press">Отменить отправку</string>
+    <string name="voice_text_over">Закончить произнесение</string>
+    <string name="external_storage_device_name">USB-устройство %s</string>
+    <string name="app_hidden_des">Нет приложения для этого действия</string>
+    <string name="app_hidden_not_found">Приложение не найдено</string>
+    <string name="permlab_getAppOpsStats">Получение рабочего журнала приложений</string>
+    <string name="permdesc_getAppOpsStats">Приложение сможет получать собранную статистику операций в приложениях. Это разрешение не используется обычными программами.</string>
+    <string name="permlab_updateAppOpsStats">Изменение рабочего журнала приложений</string>
+    <string name="permdesc_updateAppOpsStats">Приложение сможет изменять собранную статистику операций в приложениях. Это разрешение не используется обычными приложениями.</string>
+    <string name="permlab_readusagestats">читать статистику использования</string>
+    <string name="permdesc_readusagestats">Разрешить приложению читать статистику использования данных.</string>
+    <string name="permlab_writeusagestats">записывать статистику использования</string>
+    <string name="permdesc_writeusagestats">Разрешить приложению записывать статистику использования данных.</string>
+    <string name="network">Мобильная сеть</string>
+    <string name="wlan">Wi-Fi</string>
+    <string name="recordaudio_local">Аудиозаписи</string>
+    <string name="recordaudio_phone">Записи вызовов</string>
+    <string name="camera">Камера</string>
+    <string name="dlg_check_app_control_summary">Применить разрешение %s</string>
+    <string name="dlg_check_app_message" formatted="false">%s разрешено: %s (может быть изменено в Настройки/Управление приложениями)</string>
+    <string name="dlg_check_app_control_summary_on" formatted="false">Функция %s%s</string>
+    <string name="dlg_check_app_message_on" formatted="false">%s запрашивает доступ к %s</string>
+    <string name="dlg_check_app_message_off" formatted="false">%s хочет отключить функцию: %s</string>
+    <string name="open">Открыть</string>
+    <string name="close">Выкл.</string>
+    <string name="remember_me">Запомнить мой выбор</string>
+    <string name="allow_check_app">Разрешить</string>
+    <string name="not_allow_check_app">Отклонить</string>
+    <string name="dlg_ok">OK</string>
+    <string name="dlg_cancel">Отмена</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="nfc">NFC</string>
+    <string name="dialog_push">Всплыв. Push-уведомл.</string>
+    <string name="dlg_push_app_message">\"%s\" использует push-сообщения, которые могут быть небезопасны. Вы можете отключить это в Настройки / Контроль приложений.</string>
+    <string name="allow_dialog_push">Разрешить Push</string>
+    <string name="not_allow_dialog_push">Отключить</string>
+    <string name="online_intenert">Интернет</string>
+    <string name="call">Звонок</string>
+    <string name="call_c">Совершать телефонные вызовы</string>
+    <string name="op_phone_state">Статус телефона</string>
+    <string name="op_phone_state_c">Получать статус телефона</string>
+    <string name="s_sms">Отправить SMS</string>
+    <string name="s_sms_c">Прямая отправка SMS</string>
+    <string name="s_mms">Отправить MMS</string>
+    <string name="s_mms_c">Прямая отправка MMS</string>
+    <string name="set_gprs_on">Вкл. передачу данных</string>
+    <string name="set_gprs_on_c">Включить передачу данных</string>
+    <string name="set_wifi_on">Включить Wi-Fi</string>
+    <string name="set_wifi_on_c">Включить Wi-Fi</string>
+    <string name="set_bluetooth_on">Включить Bluetooth</string>
+    <string name="set_bluetooth_on_c">Включить Bluetooth</string>
+    <string name="contacts">Контакты</string>
+    <string name="contacts_c">Читать список контактов</string>
+    <string name="w_contacts">Изменять записи контактов</string>
+    <string name="w_contacts_c">Изменять список контактов</string>
+    <string name="d_contacts">Удалять записи контактов</string>
+    <string name="d_contacts_c">Удалять список контактов</string>
+    <string name="call_log">История вызовов</string>
+    <string name="call_log_c">Читать историю вызовов</string>
+    <string name="w_call_log">Изменять историю вызовов</string>
+    <string name="w_call_log_c">Изменять историю вызовов</string>
+    <string name="d_call_log">Удалять историю вызовов</string>
+    <string name="d_call_log_c">Удалять историю вызовов</string>
+    <string name="r_sms">Чтение SMS</string>
+    <string name="r_sms_c">Читать ваши SMS</string>
+    <string name="w_sms">Изменять историю SMS</string>
+    <string name="w_sms_c">Изменять входящие SMS</string>
+    <string name="d_sms">Удалять историю SMS</string>
+    <string name="d_sms_c">Удалять входящие SMS</string>
+    <string name="r_mms">Чтение MMS</string>
+    <string name="r_mms_c">Читать ваши MMS</string>
+    <string name="w_mms">Изменять историю MMS</string>
+    <string name="w_mms_c">Изменять входящие MMS</string>
+    <string name="d_mms">Удалять историю MMS</string>
+    <string name="d_mms_c">Удалять входящие MMS</string>
+    <string name="op_record_audio">Микрофон</string>
+    <string name="op_record_audio_c">Использовать микрофон</string>
+    <string name="location">Местоположение</string>
+    <string name="location_c">Поиск местоположения телефона через сеть или GPS</string>
+    <string name="op_camera">Камера</string>
+    <string name="op_camera_c">Использовать камеру</string>
+    <string name="op_imei">IMEI телефона</string>
+    <string name="op_imei_c">Получать IMEI телефона</string>
+    <string name="op_setting">Настройки</string>
+    <string name="op_setting_c">Изменять системные настройки</string>
+    <string name="perm_aotulunch">Автозапуск</string>
+    <string name="perm_notification">Уведомления</string>
+    <string name="perm_alert">Оповещения</string>
+    <string name="usb_mtp_summary">Позволяет передавать файлы мультимедиа в ОС Windows или использовать для этого Android File Transfer в ОС Mac</string>
+    <string name="usb_ptp_summary">Позволяет передавать фотографии с помощью программного обеспечения камеры на ПК</string>
+    <string name="nfc_activity_not_found_err">NFC-передача не активна</string>
+    <string name="vpn_no_network">Отсутствует сетевое подключение, повторите позже.</string>
+    <string name="vpn_can_not_load_credential">Отсутствует сертификат</string>
+    <string name="top_message">Эта прошивка является тестовой, пожалуйста, будьте осторожны!</string>
+    <string name="eventTypeLunarBirthday">Лунный день рожд.</string>
+    <string name="mz_drive_mode_title">Помощь водителю включена</string>
+    <string name="mz_drive_mode_message">Просмотреть детали</string>
+    <string name="dexopt_apps_title">Оптимизация ПО,</string>
+    <string name="dexopt_apps_apk">Оптимизация %1$d/%2$d</string>
+    <string name="low_storage_warning_message">Пожалуйста, освободите память, иначе некоторые приложения и системные процессы перестанут работать.</string>
+    <string name="free_memory_btn">Освободите часть памяти</string>
+    <string name="aerr_application_lowstorage">Объем встроенной памяти недостаточен, приложение прекращает работу. Освободите память и повторите попытку.</string>
+    <string name="aerr_process_lowstorage">Объем встроенной памяти недостаточен, процесс прекращается. Освободите память и повторите попытку.</string>
+    <string name="low_internal_storage_view_title">Объем встроенной памяти недостаточен</string>
+    <string name="global_actions_toggle_airplane_mode">Режим полета</string>
+    <string name="ellipsis">…</string>
+    <string name="share">Передать</string>
+    <string name="delete">Удалить</string>
+    <string name="ringtone_default">Рингтон по умолчанию</string>
+    <string name="ringtone_silent">Без звука</string>
+    <string name="ringtone_unknown">Без звука</string>
+    <string name="wifi_display_notification_connected_title">Беспроводной проектор подключен</string>
+    <string name="wifi_display_notification_disconnect">Отключить</string>
+    <string name="tethered_notification_title">USB-модем/точка доступа Wi-Fi используется</string>
+    <string name="tethered_notification_message">Нажмите для настройки</string>
+    <string name="usbaudio_title">USB-аудио</string>
+    <string name="usbaudio_subtitle">Аудиовыход через звуковую USB-карту</string>
+    <string name="usb_charging_notification_title">Только зарядка USB</string>
+    <string name="global_action_shut_down">Отключить питание</string>
+    <string name="dlg_check_app_message_location" formatted="false">\"%s\" разрешается %s (можно изменить в Настройках)</string>
+    <string name="download_pending">Начало загрузки</string>
+    <string name="mz_date_time_month">м</string>
+    <string name="mz_date_time_year">г</string>
+    <string name="mz_date_time_day">д</string>
+    <string name="mz_date_time_hour">ч</string>
+    <string name="mz_date_time_min">м</string>
+    <string name="mz_date_time_sec">с</string>
+    <string name="date_time_set">Установить</string>
+    <string name="mz_recipient_hint_str">Получатель:</string>
+    <string name="mz_recipient_total_str">%d чел.</string>
+    <string name="mz_recipient_edit_imeActionLabel">OK</string>
+    <string name="mz_recipient_global_searching">Поиск</string>
+    <string name="mz_recipient_global_search">Глобальный поиск контактов</string>
+    <string name="mz_recipient_sns_search">Поиск контактов Weibo</string>
+    <string name="mz_recipient_sns_searching">Поиск в Weibo…</string>
+    <string name="mz_recipient_sns_update">Обновить контакты Weibo</string>
+    <string name="mz_recipient_sns_updating">Обновление контактов Weibo...</string>
+    <string name="mz_recipient_title_message">Сообщения</string>
+    <string name="mz_recipient_title_email">E-mail</string>
+    <string name="mz_recipient_title">Получатель</string>
+    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="pattern_day_month" formatted="false">%-e/%-m</string>
+    <string name="pattern_day_month_hour_minute" formatted="false">%-e/%-m %H:%M</string>
+    <string name="pattern_day_month_hour_minute_12" formatted="false">%-e/%-m %p %I:%M</string>
+    <string name="pattern_week_day_month_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
+    <string name="pattern_week_day_month_hour_minute_12" formatted="false">%a %-e/%-m %p %I:%M</string>
+    <string name="pattern_month_year" formatted="false">%-m/%Y</string>
+    <string name="pattern_day_month_year" formatted="false">%-e/%-m/%Y</string>
+    <string name="pattern_day_month_year_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
+    <string name="pattern_day_month_year_hour_minute_12" formatted="false">%-e/%-m/%Y %p %I:%M</string>
+</resources>

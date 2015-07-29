@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permlab_readusagestats">Чтение данных статистики использования</string>
+    <string name="permdesc_readusagestats">Приложение сможет считывать данные статистики использования</string>
+    <string name="permlab_writeusagestats">Изменение данных статистики использования</string>
+    <string name="permdesc_writeusagestats">Приложение сможет изменять данные статистики использования</string>
+</resources>

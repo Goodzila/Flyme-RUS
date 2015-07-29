@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">За %d дн.</item>
+        <item quantity="one">За 1 день</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">За %d час.</item>
+        <item quantity="one">За 1 час</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">За %d мин.</item>
+        <item quantity="one">За 1 минуту</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">За %d мин.</item>
+        <item quantity="one">За 1 минуту</item>
+    </plurals>
+    <plurals name="detail_subscribed_count">
+        <item quantity="other">Участников подписано: %d</item>
+        <item quantity="one">1 участник подписан</item>
+    </plurals>
+    <plurals name="numberPickerN">
+        <item quantity="other">Завершить после %d раз?</item>
+        <item quantity="one">Однократно</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Повторить %d раз(а)</item>
+        <item quantity="one">Повторить %d раз</item>
+    </plurals>
+    <plurals name="repeatCountN">
+        <item quantity="other">%d раз</item>
+        <item quantity="one">1 раз</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">Неделя %d</item>
+    </plurals>
+</resources>

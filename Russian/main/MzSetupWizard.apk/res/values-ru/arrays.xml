@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="location_array">
+        <item>Чехия</item>
+        <item>Германия</item>
+        <item>Англия</item>
+        <item>Франция</item>
+        <item>Китай</item>
+        <item>Гонг Конг (трад)</item>
+        <item>Гонг Конг (упр.)</item>
+        <item>Макао (трад)</item>
+        <item>Макао (упр)</item>
+        <item>Тайвань</item>
+        <item>Россия</item>
+        <item>Индонезия</item>
+        <item>США</item>
+        <item>Греция</item>
+        <item>Голландия</item>
+        <item>Канада</item>
+        <item>Италия</item>
+        <item>Венгрия</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="registerTypeHint">
+        <item>Номер телефона</item>
+        <item>Имя акаунта</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Счетчик запусков</item>
+        <item>Название приложения</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Открытая</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Слабый</item>
+        <item>Нормальный</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Когда экран выключен</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item>Отключен</item>
+        <item>Сканирование…</item>
+        <item>Соединение…</item>
+        <item>Соединение…</item>
+        <item>Соединение…</item>
+        <item>Подключен</item>
+        <item>Приостановлено</item>
+        <item>Отключение…</item>
+        <item>Отключен</item>
+        <item>Ошибка</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item>Отключен</item>
+        <item>Сканирование…</item>
+        <item>Подключение к %1$s…</item>
+        <item>Аутентификация с %1$s…</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключен к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s…</item>
+        <item>Отключен</item>
+        <item>Ошибка</item>
+    </string-array>
+    <string-array name="wifi_wapi_psk_type">
+        <item>WAPI PSK ASCII</item>
+        <item>WAPI PSK hexadecimal</item>
+    </string-array>
+</resources>
